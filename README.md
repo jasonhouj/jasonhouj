@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Jason Hou</h1>
-<h3 align="center">A dentist with doctorate in Dental Implantology and a data scientist.</h3>
+<h3 align="center">Dentist with a PhD in Dental Science (Implantology) and a data scientist.</h3>
 
 - 🔭 I’m currently working on [crypto_analysis to price crytocurrency prices](https://github.com/mtorygreen/crypto_analysis)
 
