@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **data analysis and modelling related to any field. Dental/medical field would be a plus.**
 
-- 🎯 I aim to also learn **Mobile development with Flutter, Dart**
+- 🎯 Future goals: **Mobile development with Flutter, Dart**
 
 - 📫 How to reach me **jasonhouj@gmail.com**
 
