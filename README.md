@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [crypto_analysis to price crytocurrency prices](https://github.com/mtorygreen/crypto_analysis)
 
-- 🌱 I will always be learning to improve **Advanced SQL and ML/DL**
+- 🌱 I am currently learning **MySQL and R**
 
 - 👯 I’m looking to collaborate on **data analysis and modelling related to any field. Dental/medical field would be a plus.**
 
